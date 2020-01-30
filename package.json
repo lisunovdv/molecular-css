@@ -1,0 +1,19 @@
+{
+  "name": "molecular-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@emmetio/snippets": "^0.2.12",
+    "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "stylelint-config-rational-order": "^0.1.2"
+  }
+}
